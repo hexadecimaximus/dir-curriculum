@@ -1,0 +1,83 @@
+
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+/*section {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+}*/
+
+section {
+  border-bottom: 1px solid #aaa;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+}
+
+
+
+h2, h3 {
+    color: #003366;
+}
+
+
+
+.personalData{
+	vertical-align: middle;
+	margin-right: 10px;
+	border-radius: 5px;
+}
+
+section > div {
+    margin-bottom: 10px; /* ou 15px, ajuste conforme quiser */
+}
+
+li {
+	margin-top: 10px;
+}
+
+h2 {
+	margin-bottom: 5px;
+}
+
+#college1 {
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+
+#extensionCourse {
+	margin-bottom: 10px;
+}
+
+#professionalExperience {
+	margin-bottom: 10px;
+}
+
+h3{
+	margin-top: 20px;
+	margin-bottom: 5px;
+}
+
+body {
+	font-family: Arial;
+	margin-left: 20px;
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+#finalSection {
+	padding-bottom: 30px;
+}
+
+#objective {
+	margin-bottom: 10px;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
