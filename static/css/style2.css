@@ -81,3 +81,21 @@ body {
   margin: 0 auto;
   padding: 0 20px;
 }
+
+/* imagens responsivas */
+img.personalData {
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+/* Opcional: ajuste para telas pequenas */
+@media (max-width: 600px) {
+    img.personalData {
+        width: 20px;
+        height: 20px;
+    }
+}
+
