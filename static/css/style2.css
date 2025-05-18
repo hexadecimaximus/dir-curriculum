@@ -84,18 +84,17 @@ body {
 
 /* imagens responsivas */
 img.personalData {
-    width: auto;
-    max-width: 100%;
-    height: auto;
+    width: 1.2em;
+    height: 1.2em;
     vertical-align: middle;
-    margin-right: 10px;
+    margin-right: 0.5em;
 }
 
 /* Opcional: ajuste para telas pequenas */
 @media (max-width: 600px) {
     img.personalData {
-        width: 20px;
-        height: 20px;
+        width: 1em;
+        height: 1em;
     }
 }
 
