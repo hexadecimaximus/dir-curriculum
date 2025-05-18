@@ -82,19 +82,4 @@ body {
   padding: 0 20px;
 }
 
-/* imagens responsivas */
-img.personalData {
-    width: 1.2em;
-    height: 1.2em;
-    vertical-align: middle;
-    margin-right: 0.5em;
-}
-
-/* Opcional: ajuste para telas pequenas */
-@media (max-width: 600px) {
-    img.personalData {
-        width: 1em;
-        height: 1em;
-    }
-}
 
