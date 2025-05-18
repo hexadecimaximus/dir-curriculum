@@ -5,25 +5,15 @@ h1 {
     margin-bottom: 15px;
 }
 
-/*section {
-    padding-top: 10px;
-    padding-bottom: 10px;
-    border-bottom: 1px solid #ccc;
-}*/
-
 section {
   border-bottom: 1px solid #aaa;
   margin-bottom: 20px;
   padding-bottom: 10px;
 }
 
-
-
 h2, h3 {
     color: #003366;
 }
-
-
 
 .personalData{
 	vertical-align: middle;
@@ -32,7 +22,7 @@ h2, h3 {
 }
 
 section > div {
-    margin-bottom: 10px; /* ou 15px, ajuste conforme quiser */
+    margin-bottom: 10px; 
 }
 
 li {
